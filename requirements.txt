@@ -1,5 +1,5 @@
 dj-database-url==0.3.0
-Django==1.9.4
+Django==1.11.28
 django-webpack-loader==0.3.0
 django-countries==3.4.1
 whitenoise==2.0.6
