@@ -29,7 +29,7 @@ premailer==3.0.0
 pyPdf==1.13
 numpy==1.11.0
 Wand==0.4.3
-Pillow==3.3.0
+Pillow==8.1.1
 django-timezone-field==1.3
 stripe==1.37.0
 django-preventconcurrentlogins==0.7
